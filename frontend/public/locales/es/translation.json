@@ -1,0 +1,360 @@
+{
+    "from-to": "Elementos de {first} a {last} (total {totalRecords})",
+    "new": "Nuevo",
+    "search": "Buscar",
+    "export": "Exportar",
+    "import": "Importar",
+    "validate": "Validar",
+    "delete": "Eliminar",
+    "cancel": "Cancelar",
+    "save": "Guardar",
+    "next": "Siguiente",
+    "yes": "Sí",
+    "no": "No",
+    "actions": "Acciones",
+    "confirm": "Confirmar",
+    "creation": "Creación",
+    "list": "Lista",
+    "nom": "Nombre",
+    "Données personnelles" : "Datos personales",
+    "Username" : "Nombre de usuario",
+    "Télephone" : "Teléfono",
+    "Nouveau Mot de passe" : "Nueva contraseña",
+    "Confirmer votre Mot de passe" : "Confirmar contraseña",
+    "Mot de passe" : "Contraseña",
+    "prenom":"Nombre de Pila",
+    "Changer": "Cambiar",
+    
+	"actionPermission": {
+    "reference": "Referencia",
+    "libelle": "Etiqueta",
+    "actionPermission": "Permiso de acción",
+    "tabPan": "Permiso de acción",
+    "header": "Lista de permisos de acción",
+    "deleteActionPermissionConfirmationMessage": "¿Estás seguro de que quieres eliminar el permiso de acción",
+    "deleteActionPermissionsConfirmationMessage": "¿Estás seguro de que quieres eliminar los elementos seleccionados?"
+},
+"modelPermissionUser": {
+    "actionPermission": "Permiso de acción",
+    "actionPermissionPlaceHolder": "Seleccionar un permiso de acción",
+    "actionPermissionPlaceHolderFilter": "Buscar por permiso de acción",
+    "modelPermission": "Permiso de modelo",
+    "modelPermissionPlaceHolder": "Seleccionar un permiso de modelo",
+    "modelPermissionPlaceHolderFilter": "Buscar por permiso de modelo",
+    "value": "Valor",
+    "user": "Usuario",
+    "userPlaceHolder": "Seleccionar un usuario",
+    "userPlaceHolderFilter": "Buscar por usuario",
+    "subAttribute": "Subatributo",
+    "modelPermissionUser": "Permiso de modelo de usuario",
+    "tabPan": "Permiso de modelo de usuario",
+    "header": "Lista de permisos de modelo de usuario",
+    "deleteModelPermissionUserConfirmationMessage": "¿Estás seguro de que quieres eliminar el permiso de modelo de usuario",
+    "deleteModelPermissionUsersConfirmationMessage": "¿Estás seguro de que quieres eliminar los elementos seleccionados?"
+},
+"role": {
+    "authority": "Autoridad",
+    "role": "Rol",
+    "tabPan": "Rol",
+    "header": "Lista de roles",
+    "deleteRoleConfirmationMessage": "¿Estás seguro de que quieres eliminar el rol",
+    "deleteRolesConfirmationMessage": "¿Estás seguro de que quieres eliminar los elementos seleccionados?"
+},
+"roleUser": {
+    "role": "Rol",
+    "rolePlaceHolder": "Seleccionar un rol",
+    "rolePlaceHolderFilter": "Buscar por rol",
+    "user": "Usuario",
+    "userPlaceHolder": "Seleccionar un usuario",
+    "userPlaceHolderFilter": "Buscar por usuario",
+    "roleUser": "Usuario de rol",
+    "tabPan": "Usuario de rol",
+    "header": "Lista de usuarios de rol",
+    "deleteRoleUserConfirmationMessage": "¿Estás seguro de que quieres eliminar el usuario de rol",
+    "deleteRoleUsersConfirmationMessage": "¿Estás seguro de que quieres eliminar los elementos seleccionados?"
+},
+"user": {
+    "credentialsNonExpired": "Credenciales no expiradas",
+    "enabled": "Habilitado",
+    "email": "Correo electrónico",
+    "accountNonExpired": "Cuenta no expirada",
+    "accountNonLocked": "Cuenta no bloqueada",
+    "username": "Nombre de usuario",
+    "password": "Contraseña",
+    "passwordChanged": "Contraseña cambiada",
+    "modelPermissionUsers": "Usuarios de permiso de modelo",
+    "roleUsers": "Usuarios de rol",
+    "RoleUsersPlaceHolder": "Seleccionar múltiples roles",
+    "user": "Usuario",
+    "tabPan": "Usuario",
+    "header": "Lista de usuarios",
+    "deleteUserConfirmationMessage": "¿Estás seguro de que quieres eliminar el usuario",
+    "deleteUsersConfirmationMessage": "¿Estás seguro de que quieres eliminar los elementos seleccionados?"
+},
+"modelPermission": {
+    "reference": "Referencia",
+    "libelle": "Etiqueta",
+    "modelPermission": "Permiso de modelo",
+    "tabPan": "Permiso de modelo",
+    "header": "Lista de permisos de modelo",
+    "deleteModelPermissionConfirmationMessage": "¿Estás seguro de que quieres eliminar el permiso de modelo",
+    "deleteModelPermissionsConfirmationMessage": "¿Estás seguro de que quieres eliminar los elementos seleccionados?"
+},
+
+
+    "technology":{
+        "code": "Code",
+        "libelle": "Libelle",
+        "logo": "Logo",
+        "technology": "Technology",
+        "tabPan": "Technology",
+        "header": "Liste des technologys",
+        "deleteTechnologyConfirmationMessage": "Voulez vous vraiment supprimer technology",
+        "deleteTechnologysConfirmationMessage": "Voulez vous vraiment supprimer les elments selectionnes"
+
+    },
+
+
+    "template":{
+        "code": "Code",
+        "libelle": "Libelle",
+        "description": "Description",
+        "addingDate": "Adding date",
+        "addingDateMin": "Adding date Min",
+        "addingDateMax": "Adding date Max",
+        "lastUpdateDate": "Last update date",
+        "lastUpdateDateMin": "Last update date Min",
+        "lastUpdateDateMax": "Last update date Max",
+        "templateTags": "Template tags",
+        "price": "Price",
+        "priceMin": "Price Min",
+        "priceMax": "Price Max",
+        "technology": "Technology",
+        "technologyPlaceHolder": "Select a Technology",
+        "technologyPlaceHolderFilter": "Search by Technology",
+        "template": "Template",
+        "tabPan": "Template",
+        "header": "Liste des templates",
+        "deleteTemplateConfirmationMessage": "Voulez vous vraiment supprimer template",
+        "deleteTemplatesConfirmationMessage": "Voulez vous vraiment supprimer les elments selectionnes"
+
+    },
+
+
+    "paimentCollaborator":{
+        "libelle": "Libelle",
+        "description": "Description",
+        "code": "Code",
+        "amountToPaid": "Amount to paid",
+        "amountToPaidMin": "Amount to paid Min",
+        "amountToPaidMax": "Amount to paid Max",
+        "total": "Total",
+        "totalMin": "Total Min",
+        "totalMax": "Total Max",
+        "discount": "Discount",
+        "discountMin": "Discount Min",
+        "discountMax": "Discount Max",
+        "remaining": "Remaining",
+        "remainingMin": "Remaining Min",
+        "remainingMax": "Remaining Max",
+        "paiementDate": "Paiement date",
+        "paiementDateMin": "Paiement date Min",
+        "paiementDateMax": "Paiement date Max",
+        "inscriptionCollaborator": "Inscription collaborator",
+        "inscriptionCollaboratorPlaceHolder": "Select a Inscription collaborator",
+        "inscriptionCollaboratorPlaceHolderFilter": "Search by Inscription collaborator",
+        "paimentCollaboratorState": "Paiment collaborator state",
+        "paimentCollaboratorStatePlaceHolder": "Select a Paiment collaborator state",
+        "paimentCollaboratorStatePlaceHolderFilter": "Search by Paiment collaborator state",
+        "paimentCollaborator": "Paiment collaborator",
+        "tabPan": "Paiment collaborator",
+        "header": "Liste des paiment collaborators",
+        "deletePaimentCollaboratorConfirmationMessage": "Voulez vous vraiment supprimer paiment collaborator",
+        "deletePaimentCollaboratorsConfirmationMessage": "Voulez vous vraiment supprimer les elments selectionnes"
+
+    },
+
+
+    "project":{
+        "code": "Code",
+        "name": "Name",
+        "generatedDate": "Generated date",
+        "generatedDateMin": "Generated date Min",
+        "generatedDateMax": "Generated date Max",
+        "yaml": "Yaml",
+        "projectState": "Project state",
+        "projectStatePlaceHolder": "Select a Project state",
+        "projectStatePlaceHolderFilter": "Search by Project state",
+        "projectTemplates": "Project templates",
+        "projectTemplatesPlaceHolder": "Select multiple Templates",
+        "project": "Project",
+        "tabPan": "Project",
+        "header": "Liste des projects",
+        "deleteProjectConfirmationMessage": "Voulez vous vraiment supprimer project",
+        "deleteProjectsConfirmationMessage": "Voulez vous vraiment supprimer les elments selectionnes"
+
+    },
+
+
+    "paimentCollaboratorState":{
+        "code": "Code",
+        "libelle": "Libelle",
+        "paimentCollaboratorState": "Paiment collaborator state",
+        "tabPan": "Paiment collaborator state",
+        "header": "Liste des paiment collaborator states",
+        "deletePaimentCollaboratorStateConfirmationMessage": "Voulez vous vraiment supprimer paiment collaborator state",
+        "deletePaimentCollaboratorStatesConfirmationMessage": "Voulez vous vraiment supprimer les elments selectionnes"
+
+    },
+
+
+    "projectState":{
+        "code": "Code",
+        "libelle": "Libelle",
+        "projectState": "Project state",
+        "tabPan": "Project state",
+        "header": "Liste des project states",
+        "deleteProjectStateConfirmationMessage": "Voulez vous vraiment supprimer project state",
+        "deleteProjectStatesConfirmationMessage": "Voulez vous vraiment supprimer les elments selectionnes"
+
+    },
+
+
+    "categoryPackaging":{
+        "code": "Code",
+        "libelle": "Libelle",
+        "categoryPackaging": "Category packaging",
+        "tabPan": "Category packaging",
+        "header": "Liste des category packagings",
+        "deleteCategoryPackagingConfirmationMessage": "Voulez vous vraiment supprimer category packaging",
+        "deleteCategoryPackagingsConfirmationMessage": "Voulez vous vraiment supprimer les elments selectionnes"
+
+    },
+
+
+    "projectTemplate":{
+        "template": "Template",
+        "templatePlaceHolder": "Select a Template",
+        "templatePlaceHolderFilter": "Search by Template",
+        "project": "Project",
+        "projectPlaceHolder": "Select a Project",
+        "projectPlaceHolderFilter": "Search by Project",
+        "projectTemplate": "Project template",
+        "tabPan": "Project template",
+        "header": "Liste des project templates",
+        "deleteProjectTemplateConfirmationMessage": "Voulez vous vraiment supprimer project template",
+        "deleteProjectTemplatesConfirmationMessage": "Voulez vous vraiment supprimer les elments selectionnes"
+
+    },
+
+
+    "packaging":{
+        "name": "Name",
+        "code": "Code",
+        "description": "Description",
+        "dateStart": "Date start",
+        "dateStartMin": "Date start Min",
+        "dateStartMax": "Date start Max",
+        "dateEnd": "Date end",
+        "dateEndMin": "Date end Min",
+        "dateEndMax": "Date end Max",
+        "price": "Price",
+        "priceMin": "Price Min",
+        "priceMax": "Price Max",
+        "maxEntity": "Max entity",
+        "maxEntityMin": "Max entity Min",
+        "maxEntityMax": "Max entity Max",
+        "maxProjet": "Max projet",
+        "maxProjetMin": "Max projet Min",
+        "maxProjetMax": "Max projet Max",
+        "maxAttribut": "Max attribut",
+        "maxAttributMin": "Max attribut Min",
+        "maxAttributMax": "Max attribut Max",
+        "maxIndicator": "Max indicator",
+        "maxIndicatorMin": "Max indicator Min",
+        "maxIndicatorMax": "Max indicator Max",
+        "categoryPackaging": "Category packaging",
+        "categoryPackagingPlaceHolder": "Select a Category packaging",
+        "categoryPackagingPlaceHolderFilter": "Search by Category packaging",
+        "packaging": "Packaging",
+        "tabPan": "Packaging",
+        "header": "Liste des packagings",
+        "deletePackagingConfirmationMessage": "Voulez vous vraiment supprimer packaging",
+        "deletePackagingsConfirmationMessage": "Voulez vous vraiment supprimer les elments selectionnes"
+
+    },
+
+
+    "inscriptionCollaboratorState":{
+        "code": "Code",
+        "libelle": "Libelle",
+        "inscriptionCollaboratorState": "Inscription collaborator state",
+        "tabPan": "Inscription collaborator state",
+        "header": "Liste des inscription collaborator states",
+        "deleteInscriptionCollaboratorStateConfirmationMessage": "Voulez vous vraiment supprimer inscription collaborator state",
+        "deleteInscriptionCollaboratorStatesConfirmationMessage": "Voulez vous vraiment supprimer les elments selectionnes"
+
+    },
+
+
+    "collaborator":{
+        "description": "Description",
+        "credentialsNonExpired": "Credentials non expired",
+        "enabled": "Enabled",
+        "accountNonExpired": "Account non expired",
+        "accountNonLocked": "Account non locked",
+        "passwordChanged": "Password changed",
+        "username": "Username",
+        "password": "Password",
+        "collaborator": "Collaborator",
+        "tabPan": "Collaborator",
+        "header": "Liste des collaborators",
+        "deleteCollaboratorConfirmationMessage": "Voulez vous vraiment supprimer collaborator",
+        "deleteCollaboratorsConfirmationMessage": "Voulez vous vraiment supprimer les elments selectionnes"
+
+    },
+
+
+    "inscriptionCollaborator":{
+        "reference": "Reference",
+        "startDate": "Start date",
+        "startDateMin": "Start date Min",
+        "startDateMax": "Start date Max",
+        "endDate": "End date",
+        "endDateMin": "End date Min",
+        "endDateMax": "End date Max",
+        "renewDate": "Renew date",
+        "renewDateMin": "Renew date Min",
+        "renewDateMax": "Renew date Max",
+        "packaging": "Packaging",
+        "packagingPlaceHolder": "Select a Packaging",
+        "packagingPlaceHolderFilter": "Search by Packaging",
+        "consumedEntity": "Consumed entity",
+        "consumedEntityMin": "Consumed entity Min",
+        "consumedEntityMax": "Consumed entity Max",
+        "consumedProjet": "Consumed projet",
+        "consumedProjetMin": "Consumed projet Min",
+        "consumedProjetMax": "Consumed projet Max",
+        "consumedAttribut": "Consumed attribut",
+        "consumedAttributMin": "Consumed attribut Min",
+        "consumedAttributMax": "Consumed attribut Max",
+        "consumedIndicator": "Consumed indicator",
+        "consumedIndicatorMin": "Consumed indicator Min",
+        "consumedIndicatorMax": "Consumed indicator Max",
+        "collaborator": "Collaborator",
+        "collaboratorPlaceHolder": "Select a Collaborator",
+        "collaboratorPlaceHolderFilter": "Search by Collaborator",
+        "inscriptionCollaboratorState": "Inscription collaborator state",
+        "inscriptionCollaboratorStatePlaceHolder": "Select a Inscription collaborator state",
+        "inscriptionCollaboratorStatePlaceHolderFilter": "Search by Inscription collaborator state",
+        "inscriptionCollaborator": "Inscription collaborator",
+        "tabPan": "Inscription collaborator",
+        "header": "Liste des inscription collaborators",
+        "deleteInscriptionCollaboratorConfirmationMessage": "Voulez vous vraiment supprimer inscription collaborator",
+        "deleteInscriptionCollaboratorsConfirmationMessage": "Voulez vous vraiment supprimer les elments selectionnes"
+
+    },
+
+"appName": "GED"
+
+  }

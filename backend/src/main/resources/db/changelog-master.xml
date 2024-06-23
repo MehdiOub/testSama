@@ -1,0 +1,19 @@
+<databaseChangeLog xmlns="http://www.liquibase.org/xml/ns/dbchangelog"
+                   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                   xsi:schemaLocation="http://www.liquibase.org/xml/ns/dbchangelog
+                   http://www.liquibase.org/xml/ns/dbchangelog/dbchangelog-4.0.xsd">
+
+            <include file="classpath:db/migration/changelog/template/Technology.xml"/>
+        <include file="classpath:db/migration/changelog/template/Template.xml"/>
+        <include file="classpath:db/migration/changelog/collaborator/PaimentCollaborator.xml"/>
+        <include file="classpath:db/migration/changelog/project/Project.xml"/>
+        <include file="classpath:db/migration/changelog/collaborator/PaimentCollaboratorState.xml"/>
+        <include file="classpath:db/migration/changelog/project/ProjectState.xml"/>
+        <include file="classpath:db/migration/changelog/packaging/CategoryPackaging.xml"/>
+        <include file="classpath:db/migration/changelog/template/ProjectTemplate.xml"/>
+        <include file="classpath:db/migration/changelog/packaging/Packaging.xml"/>
+        <include file="classpath:db/migration/changelog/collaborator/InscriptionCollaboratorState.xml"/>
+        <include file="classpath:db/migration/changelog/collaborator/Collaborator.xml"/>
+        <include file="classpath:db/migration/changelog/collaborator/InscriptionCollaborator.xml"/>
+
+</databaseChangeLog>
